@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-
-.icon-gplus-1:before { content: '\2b'; } /* '+' */
-.icon-twitter-1:before { content: '\54'; } /* 'T' */
-.icon-facebook-1:before { content: '\66'; } /* 'f' */
-.icon-home:before { content: '\2302'; } /* '⌂' */
-.icon-user-add:before { content: '\e700'; } /* '' */
-.icon-users:before { content: '👥'; } /* '\1f465' */
