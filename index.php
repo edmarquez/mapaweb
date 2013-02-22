@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  <html>
      <head>
 	       <title>esqueleto</title>
@@ -28,3 +29,6 @@
 			</div>
 	 </body>
  </html>
+=======
+ 
+>>>>>>> 0045a8a335008a0ec29f0b75f0f5646de2cc72d9
